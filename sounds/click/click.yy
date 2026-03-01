@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"click",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.3368027,
+  "exportDir":"",
+  "name":"click",
+  "parent":{
+    "name":"sprites",
+    "path":"folders/sprites.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"click.wav",
+  "volume":1.0,
+}
